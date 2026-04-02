@@ -57,3 +57,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+
+<p align="center">
+  <img src="https://github-contrib-stats.vercel.app/harrywzl/contributed.svg?theme=dark" alt="Top Contributed Repo" />
+</p>
