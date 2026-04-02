@@ -10,7 +10,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zulin-wu-b808a5272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/harrywu5z0?igsh=aDh1NGgwdHNmMXow&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
