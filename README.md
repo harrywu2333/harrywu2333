@@ -1,12 +1,12 @@
-## 👋 About Me
+## About Me
 
-- 🔭 **Current Status:** Junior CS student at NYU 
-- 🌱 **Currently Focused On:** Building AI-native full-stack applications and production LLM integrations
-- 📫 **Contact:** harrywu0121@outlook.com
+- **Current Status:** Junior CS student at NYU 
+- **Currently Focused On:** Building AI-native full-stack applications and production LLM integrations
+- **Contact:** harrywu0121@outlook.com
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zulin-wu-b808a5272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
