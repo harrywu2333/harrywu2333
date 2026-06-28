@@ -1,6 +1,6 @@
 ## About Me
 
-- **Current Status:** Junior CS student at NYU 
+- **Current Status:** AI CS student at NYU 
 - **Currently Focused On:** Building AI-native full-stack applications and production LLM integrations
 - **Contact:** harrywu0121@outlook.com
 
